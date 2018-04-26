@@ -7,11 +7,13 @@ body {
     
 }
 
-.nav {
+#navbar {
 min-height:50px;
 color: #666666;
 opacity: 100%;
 text-align:center;
+background-color:white;
+font-family: 'Quicksand', sans-serif;
 
 }
 
@@ -72,9 +74,18 @@ font-family: 'Quicksand', sans-serif;
 }
 
 .portfolio-div {
-    height:300px;
-    width:400px;
+    height:340px;
+    width:440px;
     background-color: pink;
+}
+
+#giffinder.pic{
+    height:100px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 
