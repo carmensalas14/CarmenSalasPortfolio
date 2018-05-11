@@ -25,6 +25,11 @@ text-align: center;
 color: #d27979;
 }
 
+#profile-pic{
+    height:350px;
+     border-radius: 50%;
+}
+
 .nav-li {
     text-align: center;
     font-style: bold;
@@ -53,7 +58,13 @@ text-align:center;
 }
 
 h1{
-font-family: 'Quicksand', sans-serif;    
+font-family: 'Quicksand', sans-serif;   
+
+}
+
+.col-xs-4{
+    font-family: 'Quicksand', sans-serif;
+    
 }
 
 .subtitles{
@@ -88,6 +99,9 @@ font-family: 'Quicksand', sans-serif;
     width: 50%;
 }
 
+#Contact{
+    background-color: #FBE5D9; 
+}
 
 /* Footer CSS */
 
